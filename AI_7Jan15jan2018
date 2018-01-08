@@ -5,7 +5,8 @@ AI:
 3.Unix command Directory wise
     =Login password change
     =User permission root acess-extra security layer
-          -su,-sudo
+          -su-[super user or root user]
+          -sudo
           -extra permission, instalation /deletion some extra pacakge
           -
 
