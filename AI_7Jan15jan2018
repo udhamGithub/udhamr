@@ -8,10 +8,6 @@ AI:
           -su-[super user or root user]
           -sudo
           -extra permission, instalation /deletion some extra pacakge
-          -
-
- 
-   
     =File/Folder
           - Search, - delete,-update
           - Permission
@@ -21,7 +17,5 @@ AI:
     =Memory
     =Task manager
     =Terminal
-    =control panel
-    
-    
-4.Dif b/w linux and Unix
+    =control panel    
+4.Dif b/w linux and Unix basics,what is current version of linux and unix?
